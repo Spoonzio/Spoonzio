@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## I am a Computer Systems Technology student at BCIT, with a passion for learning and solving problems.
+Reach out to me on <a href="https://www.linkedin.com/in/yixuan-pan/"> my LinkedIn<a>!
 <!--
 **Spoonzio/Spoonzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
